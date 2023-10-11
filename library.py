@@ -81,7 +81,7 @@ class Library:
 bsk=Library("Bishwa Shahitja Kendro")
 admin=bsk.addUser(1000,"admin","admin")
 rahat=bsk.addUser(12,"Rahat","123")
-mehek=bsk.addUser(13,"mehek","1234")
+mehek=bsk.addUser(13,"Mehek","1234")
 cpBook=bsk.addBook(11,"CP book",5)
 algoBook=bsk.addBook(12,"Algo book",6)
 
